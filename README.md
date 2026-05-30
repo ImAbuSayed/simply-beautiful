@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/simply-beautiful/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Simply Beautiful](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/simply-beautiful/) |
+| **Get License** | [Official Music Licensing for Simply Beautiful](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/simply-beautiful/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Midnight shadows dancing on the wooden floor
+> Every look you give me leaves me wanting more
+> Got the moonlight spilling from the window pane
+> Just the thought of you is pulling on my reins
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
